@@ -6,7 +6,7 @@
   - Simulink: Learn the basics of creating models using Simulink.
   - Wireshark: Explore network traffic capturing and analysis using Wireshark.
 
-## Lab 1: Signals and Noise
+[## Lab 1: Signals and Noise]((https://github.com/ChenyiAXu/ECSE308_Communication_System/tree/main/Lab%201)
 ### Part 1: Signals and Noise
 - **Objective:** Understand basic signal and noise concepts using Simulink.
 - **Key Concepts:**
