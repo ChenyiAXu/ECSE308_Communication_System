@@ -1,13 +1,13 @@
 # ECSE308_Labs
 
-## Lab 0: Introduction to Simulink and Wireshark
+## [Lab 0: Introduction to Simulink and Wireshark](https://github.com/ChenyiAXu/ECSE308_Communication_System/tree/main/Lab%200)
 - **Objective:** Get familiar with Simulink and Wireshark tools.
 - **Description:**
   - Simulink: Learn the basics of creating models using Simulink.
   - Wireshark: Explore network traffic capturing and analysis using Wireshark.
 
-[## Lab 1: Signals and Noise]((https://github.com/ChenyiAXu/ECSE308_Communication_System/tree/main/Lab%201)
-### Part 1: Signals and Noise
+## [Lab 1: Signals and Noise](https://github.com/ChenyiAXu/ECSE308_Communication_System/tree/main/Lab%201)
+### Part 1: Presentation of Signals and Noise
 - **Objective:** Understand basic signal and noise concepts using Simulink.
 - **Key Concepts:**
   - **Periodic/Non-periodic Signals**: Explore signals with repeating patterns (periodic) and those without (non-periodic).
